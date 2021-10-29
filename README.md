@@ -1,4 +1,5 @@
 # Concert Tickets Price Prediction - Web Scraping and Regression
+
 ## Introduction
 Concerts are a way for the artists to perform their art of music in front of an audience, regardless of the size of that audience and the type of music. Our goal for this project is to predict the prices of the concert tickets of America’s top artists.
 
