@@ -13,6 +13,7 @@ We aim to obtain the dataset by web scraping a concert ticket selling website: R
 - Time: The time that the concert will occur at.
 - Level: Front, middle, and last sections/rows.
 - Price:  The price of the concert ticket.
+
 In addition, we will add a feature that contains the average salary of the state that the concert will occur in.
 
 ## Tools
